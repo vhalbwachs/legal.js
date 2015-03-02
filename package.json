@@ -1,0 +1,24 @@
+{
+  "name": "legaljs",
+  "version": "0.1.0",
+  "description": "Help you figure out if you can legally use your dependencies for proprietary software development",
+  "main": "index.js",
+  "dependencies": {
+    "asn1": "^0.2.2",
+    "lodash": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willchen90/legal.js"
+  },
+  "author": "Will Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willchen90/legal.js/issues"
+  },
+  "homepage": "https://github.com/willchen90/legal.js"
+}
