@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "description": "Help you figure out if you can legally use your dependencies for proprietary software development",
   "main": "index.js",
+  "license": "MIT",
   "dependencies": {
-    "asn1": "^0.2.2",
-    "lodash": "^3.3.1"
+    "lodash": "^3.3.1",
+    "archy": "0.0.2",
+    "commander": "^2.3.0",
+    "glob": "^4.0.2",
+    "read-installed": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -20,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/willchen90/legal.js/issues"
   },
-  "homepage": "https://github.com/willchen90/legal.js"
+  "homepage": "https://github.com/willchen90/legal.js",
+  "keywords": [
+    "license",
+    "licence",
+    "legal",
+    "dependency",
+  ]
 }
